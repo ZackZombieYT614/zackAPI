@@ -12,7 +12,7 @@ There are three differnet typing functions:
 -> The third is playing a seperate sound when you press backspace
 
 Below is what you need in your script:
-
+```
 local zackapi = require("zackAPI")
 
 zackapi.typing(
@@ -33,3 +33,4 @@ zackapi.backspace(
     nil, --the volume of the sound
     nil, --the pitch of the sound
 )
+```
