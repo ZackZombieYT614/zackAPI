@@ -7,9 +7,14 @@ https://www.digminecraft.com/lists/sound_list_pc.php
 if you want a custom sound just put the name of the file 
 
 There are three differnet typing functions:
+
 -> The first is regular typing, which includes numbers, letters and symbols in when chat is open
+
 -> The second is playing a seperate sound when you press enter
+
 -> The third is playing a seperate sound when you press backspace
+
+--
 
 Below is what you need in your script:
 ```
