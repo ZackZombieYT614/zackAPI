@@ -30,12 +30,12 @@ zackapi.typing(
 zackapi.enter(
     "", --sound played when you type
     nil, --the volume of the sound
-    nil, --the pitch of the sound
+    nil --the pitch of the sound
 )
 
 zackapi.backspace(
     "", --sound played when you type
     nil, --the volume of the sound
-    nil, --the pitch of the sound
+    nil --the pitch of the sound
 )
 ```
